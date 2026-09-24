@@ -1,2 +1,2 @@
-def count(a , b):
-    return a - b
+def howhaow():
+    print("hawhaw")
