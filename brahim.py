@@ -1,2 +1,2 @@
 def tt():
-    print("tt")
+    print("tt khalid")
