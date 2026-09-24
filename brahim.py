@@ -1,2 +1,2 @@
-def count(a , b):
-    return a - b
+def tt():
+    print("tt brahim")
