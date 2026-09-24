@@ -1,2 +1,2 @@
-def howhaow():
-    print("hawhaw")
+def test():
+    print("test")
